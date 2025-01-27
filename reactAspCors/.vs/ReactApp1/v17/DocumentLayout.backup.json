@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\test\\reactAspCors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D7F3-78A8-4286-BA03-758BA6E9E2C5}|ReactApp1.Server\\ReactApp1.Server.csproj|d:\\work\\test\\reactaspcors\\reactapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015D7F3-78A8-4286-BA03-758BA6E9E2C5}|ReactApp1.Server\\ReactApp1.Server.csproj|solutionrelative:reactapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D7F3-78A8-4286-BA03-758BA6E9E2C5}|ReactApp1.Server\\ReactApp1.Server.csproj|d:\\work\\test\\reactaspcors\\reactapp1.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015D7F3-78A8-4286-BA03-758BA6E9E2C5}|ReactApp1.Server\\ReactApp1.Server.csproj|solutionrelative:reactapp1.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D7F3-78A8-4286-BA03-758BA6E9E2C5}|ReactApp1.Server\\ReactApp1.Server.csproj|d:\\work\\test\\reactaspcors\\reactapp1.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6015D7F3-78A8-4286-BA03-758BA6E9E2C5}|ReactApp1.Server\\ReactApp1.Server.csproj|solutionrelative:reactapp1.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D7F3-78A8-4286-BA03-758BA6E9E2C5}|ReactApp1.Server\\ReactApp1.Server.csproj|d:\\work\\test\\reactaspcors\\reactapp1.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015D7F3-78A8-4286-BA03-758BA6E9E2C5}|ReactApp1.Server\\ReactApp1.Server.csproj|solutionrelative:reactapp1.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D7F3-78A8-4286-BA03-758BA6E9E2C5}|ReactApp1.Server\\ReactApp1.Server.csproj|d:\\work\\test\\reactaspcors\\reactapp1.server\\reactapp1.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6015D7F3-78A8-4286-BA03-758BA6E9E2C5}|ReactApp1.Server\\ReactApp1.Server.csproj|solutionrelative:reactapp1.server\\reactapp1.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D90728-8FCC-47A7-8F99-6E673AA8ECC3}|reactapp1.client\\reactapp1.client.esproj|d:\\work\\test\\reactaspcors\\reactapp1.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A3D90728-8FCC-47A7-8F99-6E673AA8ECC3}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D90728-8FCC-47A7-8F99-6E673AA8ECC3}|reactapp1.client\\reactapp1.client.esproj|d:\\work\\test\\reactaspcors\\reactapp1.client\\reactapp1.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A3D90728-8FCC-47A7-8F99-6E673AA8ECC3}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\reactapp1.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D90728-8FCC-47A7-8F99-6E673AA8ECC3}|reactapp1.client\\reactapp1.client.esproj|d:\\work\\test\\reactaspcors\\reactapp1.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A3D90728-8FCC-47A7-8F99-6E673AA8ECC3}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D90728-8FCC-47A7-8F99-6E673AA8ECC3}|reactapp1.client\\reactapp1.client.esproj|d:\\work\\test\\reactaspcors\\reactapp1.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A3D90728-8FCC-47A7-8F99-6E673AA8ECC3}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D90728-8FCC-47A7-8F99-6E673AA8ECC3}|reactapp1.client\\reactapp1.client.esproj|d:\\work\\test\\reactaspcors\\reactapp1.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3D90728-8FCC-47A7-8F99-6E673AA8ECC3}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D90728-8FCC-47A7-8F99-6E673AA8ECC3}|reactapp1.client\\reactapp1.client.esproj|d:\\work\\test\\reactaspcors\\reactapp1.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3D90728-8FCC-47A7-8F99-6E673AA8ECC3}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Work\\test\\reactAspCors\\ReactApp1.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ReactApp1.Server\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Work\\test\\reactAspCors\\ReactApp1.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ReactApp1.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-26T16:13:13.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vite.config.ts",
+              "DocumentMoniker": "D:\\Work\\test\\reactAspCors\\reactapp1.client\\vite.config.ts",
+              "RelativeDocumentMoniker": "reactapp1.client\\vite.config.ts",
+              "ToolTip": "D:\\Work\\test\\reactAspCors\\reactapp1.client\\vite.config.ts",
+              "RelativeToolTip": "reactapp1.client\\vite.config.ts",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-26T16:09:58.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "nuget.config",
+              "DocumentMoniker": "D:\\Work\\test\\reactAspCors\\reactapp1.client\\nuget.config",
+              "RelativeDocumentMoniker": "reactapp1.client\\nuget.config",
+              "ToolTip": "D:\\Work\\test\\reactAspCors\\reactapp1.client\\nuget.config",
+              "RelativeToolTip": "reactapp1.client\\nuget.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-26T16:10:31.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\Work\\test\\reactAspCors\\reactapp1.client\\package.json",
+              "RelativeDocumentMoniker": "reactapp1.client\\package.json",
+              "ToolTip": "D:\\Work\\test\\reactAspCors\\reactapp1.client\\package.json",
+              "RelativeToolTip": "reactapp1.client\\package.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-26T16:10:26.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "D:\\Work\\test\\reactAspCors\\reactapp1.client\\tsconfig.json",
+              "RelativeDocumentMoniker": "reactapp1.client\\tsconfig.json",
+              "ToolTip": "D:\\Work\\test\\reactAspCors\\reactapp1.client\\tsconfig.json",
+              "RelativeToolTip": "reactapp1.client\\tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-26T16:09:57.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "reactapp1.client",
+              "DocumentMoniker": "D:\\Work\\test\\reactAspCors\\reactapp1.client\\reactapp1.client.esproj",
+              "RelativeDocumentMoniker": "reactapp1.client\\reactapp1.client.esproj",
+              "ToolTip": "D:\\Work\\test\\reactAspCors\\reactapp1.client\\reactapp1.client.esproj",
+              "RelativeToolTip": "reactapp1.client\\reactapp1.client.esproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-26T16:04:15.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "D:\\Work\\test\\reactAspCors\\reactapp1.client\\eslint.config.js",
+              "RelativeDocumentMoniker": "reactapp1.client\\eslint.config.js",
+              "ToolTip": "D:\\Work\\test\\reactAspCors\\reactapp1.client\\eslint.config.js",
+              "RelativeToolTip": "reactapp1.client\\eslint.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-26T16:09:41.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\test\\reactAspCors\\ReactApp1.Server\\Program.cs",
+              "RelativeDocumentMoniker": "ReactApp1.Server\\Program.cs",
+              "ToolTip": "D:\\Work\\test\\reactAspCors\\ReactApp1.Server\\Program.cs",
+              "RelativeToolTip": "ReactApp1.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:03:00.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReactApp1.Server",
+              "DocumentMoniker": "D:\\Work\\test\\reactAspCors\\ReactApp1.Server\\ReactApp1.Server.csproj",
+              "RelativeDocumentMoniker": "ReactApp1.Server\\ReactApp1.Server.csproj",
+              "ToolTip": "D:\\Work\\test\\reactAspCors\\ReactApp1.Server\\ReactApp1.Server.csproj",
+              "RelativeToolTip": "ReactApp1.Server\\ReactApp1.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-26T16:02:49.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Work\\test\\reactAspCors\\ReactApp1.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ReactApp1.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Work\\test\\reactAspCors\\ReactApp1.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ReactApp1.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T15:58:59.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Work\\test\\reactAspCors\\ReactApp1.Server\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ReactApp1.Server\\WeatherForecast.cs",
+              "ToolTip": "D:\\Work\\test\\reactAspCors\\ReactApp1.Server\\WeatherForecast.cs",
+              "RelativeToolTip": "ReactApp1.Server\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:17:32.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
